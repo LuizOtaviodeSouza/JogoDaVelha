@@ -1,0 +1,11 @@
+git config --global user.name LuizOtaviodeSouza
+git config --global user.email lui-otavio@hotmail.com
+
+Criar o projeto:
+npx create-expo-app@latest JogoDaVelha --template blank
+
+Entrar no projeto:
+cd JogoDaVelha
+
+Iniciar o projeto no celular:
+npx expo start --localhost --android
