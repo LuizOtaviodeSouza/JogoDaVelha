@@ -7,5 +7,8 @@ npx create-expo-app@latest JogoDaVelha --template blank
 Entrar no projeto:
 cd JogoDaVelha
 
+Antes de Iniciar:
+npm
+
 Iniciar o projeto no celular:
 npx expo start --localhost --android
